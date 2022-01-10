@@ -32,7 +32,7 @@ public class Question2 {
 		
 		System.out.println();
 		System.out.printf("Commission         : RM%.2f" , commission);
-		System.out.printf("\nDaily wages        : RM%.2f" , totalwages);
+		System.out.printf("\nDaily wages        : RM%.2f" , totalWages);
 
 	}
 
