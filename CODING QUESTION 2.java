@@ -13,7 +13,7 @@ public class Question2 {
 		int hours;
 		double commission = 0;
 		double dailyWages;
-		double totalwages;
+		double totalWages;
 		
 		System.out.print("Enter sales        : RM");
 		sales = input.nextDouble();
@@ -28,7 +28,7 @@ public class Question2 {
 			commission = sales * 0.15;
 		
 		dailyWages = hours * 5.0;
-		totalwages = dailyWages + commission;
+		totalWages = dailyWages + commission;
 		
 		System.out.println();
 		System.out.printf("Commission         : RM%.2f" , commission);
